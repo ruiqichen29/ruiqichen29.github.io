@@ -14,7 +14,7 @@ I joined the Fudan University as a Research Assistant starting February 2022. I 
 
 You can find my CV here: [Ruiqi Chen’s Curriculum Vitae]().
 
-<font color="#E74290"><b> I am looking for a PhD position. </b></font>
+<font color="#E74290"><b> I am looking for a PhD position. </b></font>  
 
 Research Interests
 ======
