@@ -1,11 +1,13 @@
 ---
+permalink: /
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Biography
 ======
 I joined the Fudan University as a Research Assistant starting February 2022. I have worked as a visiting researcher in VeriMake Innovation Lab of Renmian IC Co.,Ltd, China from 2020-2022. I received my M.S. degree in Integrated Circuit Engineering from Fuzhou University in 2020. My research interests include domain-specific architecture and FPGA-based accelerators.
 
