@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-======
+------
+
 I joined the Fudan University as a Research Assistant starting February 2022. I have worked as a visiting researcher in VeriMake Innovation Lab of Renmian IC Co.,Ltd, China from 2020-2022. I received my M.S. degree in Integrated Circuit Engineering from Fuzhou University in 2020. My research interests include domain-specific architecture and FPGA-based accelerators.
 
 You can find my CV here: [Ruiqi Chen’s Curriculum Vitae]().
@@ -16,7 +17,9 @@ You can find my CV here: [Ruiqi Chen’s Curriculum Vitae]().
 <font color="#E74290"><b> I am looking for a PhD position. </b></font>
 
 Research Interests
-======
+
+------
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
