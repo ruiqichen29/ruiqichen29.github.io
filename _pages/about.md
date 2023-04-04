@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "<font color="#07429E">Biography</font>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -7,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<font color="#07429E">Biography</font>
 
 ======
 I joined the Fudan University as a Research Assistant starting February 2022. I have worked as a visiting researcher in VeriMake Innovation Lab of Renmian IC Co.,Ltd, China from 2020-2022. I received my M.S. degree in Integrated Circuit Engineering from Fuzhou University in 2020. My research interests include domain-specific architecture and FPGA-based accelerators.
 
 You can find my CV here: [Ruiqi Chen’s Curriculum Vitae]().
 
-<font color="#E74290"><b> I am looking for a PhD position. </b></font><br /> 
+<font color="#E74290"><b> I am looking for a PhD position. </b></font>
 
 <font color="#07429E">Research Interests</font>
 
