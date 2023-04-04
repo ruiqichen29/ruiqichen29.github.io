@@ -17,7 +17,7 @@ You can find my CV here: [Ruiqi Chen’s Curriculum Vitae]().
 <font color="#E74290"><b> I am looking for a PhD position. </b></font>
 
 Research Interests
-
+======
 ------
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
