@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ruiqi Chen"
   avatar           : "crq.png"
-  bio              : "Fudan University"
-  location         : "Shanghai, China"
+  bio              : # "Fudan University"
+  location         : "Wuxi, China"
   employer         : 
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  https://scholar.google.com/citations?user=X-VB7JyO7-EC&hl
