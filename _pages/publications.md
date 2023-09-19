@@ -64,13 +64,3 @@ J. Comput, 2021, 32: 115-127.
 ## Wearable on-device deep learning system for hand gesture recognition based on FPGA accelerator
 Mathematical Biosciences and Engineering, 2021, 18(1): 132-153.
 
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u> and <u><a href="{{author.researchgate}}">my ResearchGate profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
