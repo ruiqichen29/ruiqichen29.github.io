@@ -26,23 +26,25 @@ Research Interests
 - ### FPGA-based High Performance Computing 
 - ### Heterogeneous Computing
 
+
+
 Select Publications
 ======
 ------
 
-#### eSSpMV: An Embedded-FPGA-based Hardware Accelerator for Symmetric Sparse Matrix-Vector Multiplication
+### eSSpMV: An Embedded-FPGA-based Hardware Accelerator for Symmetric Sparse Matrix-Vector Multiplication
 Ruiqi Chen, Haoyang Zhang, Yuhanxiao Ma, et al<br>
 2023 IEEE International Symposium on Circuits and Systems (ISCAS)
 
-#### Vina-FPGA: A Hardware-Accelerated Molecular Docking Tool With Fixed-Point Quantization and Low-Level Parallelism
+### Vina-FPGA: A Hardware-Accelerated Molecular Docking Tool With Fixed-Point Quantization and Low-Level Parallelism
 Ming Ling, Qingde Lin, Ruiqi Chen, et al<br>
 IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2022, 31(4): 484-497.
 
-#### Biological Activity Prediction of GPCR-targeting Ligands on Heterogeneous FPGA-based Accelerators
+### Biological Activity Prediction of GPCR-targeting Ligands on Heterogeneous FPGA-based Accelerators
 Ruiqi Chen, Yuhanxiao Ma, Shaodong Zheng, et al<br>
 2022 IEEE 30th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)
 
-#### Accelerating AutoDock VINA with GPUs 
+### Accelerating AutoDock VINA with GPUs 
 Shidi Tang, Ruiqi Chen, Ming Ling, et al<br>
 Molecules, 2022, 27(9): 3041.
 
