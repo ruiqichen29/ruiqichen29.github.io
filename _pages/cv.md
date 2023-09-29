@@ -11,49 +11,62 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronic Science and Technology, Southeast University Chengxian College, 2017
+* M.S. in Integrated Circuit Engineering, Fuzhou University, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022/02 ¨C 2023/08: Research Assistant
+  * Fudan University
+  * Duties included: FPGA-based graph neural networks accelerator design and research article writing.
+  * Supervisor: Professor Kun Wang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020/06 ¨C 2022/01: Visiting Researcher
+  * VeriMake Innovation-Lab
+  * Duties included: FPGA-based domain specific accelerator design and research article writing.
+  * Supervisor: Mr. Yanxiang Zhu
+  * Co-supervisor: Associate Professor Ming Ling
+
+Publications 
+======
+* FPGA-based Graph Neural Networks Accelerator Design (2022/02 - Present)
+  * An FPGA-based Overlay Processor is proposed for Graph Neural Networks (GNNs), facilitating rapid end-to-end software reconfiguration across diverse GNN model accelerators.
+  * Optimized designs for sparse matrix multipliers are presented, encompassing symmetric sparse matrix multipliers and high bandwidth general sparse matrix multipliers.
+  * Publications:
+    * [1]. ¡°Graph-OPU: A Highly Integrated FPGA-Based Overlay Processor for Graph Neural Networks¡±, in FPL, 2023.
+    * [2]. ¡°Graph-OPU: An FPGA-Based Overlay Processor for Graph Neural Networks¡±, in FPGA, 2023.
+    * [3]. ¡°eSSpMV: An Embedded-FPGA-based Hardware Accelerator for Symmetric Sparse Matrix-Vector Multiplication,¡± in ISCAS, 2023.
+
+* Hardware Accelerator for Computer-Aided Drug Design (2020/07 - Present)
+  * A hardware-accelerated approach for AutoDock Vina has been developed, leading to deployments on GPU and FPGA platforms with average speedups of 19.8x and 3.7x, respectively.
+  * An FPGA-based heterogeneous accelerator has been introduced for predicting GPCR ligand biological activity values. The system operates 54.5x faster than a CPU counterpart and achieves an energy efficiency that is 35.2x superior to GPU implementations.
+  * Publications:
+    * [1]. ¡°FPGA Accelerating Multi-source Transfer Learning with GAT for Bioactivities of Ligands Targeting Orphan G Protein-coupled Receptors¡±, in FPL, 2023.
+    * [2]. ¡°Vina-FPGA: A Hardware-Accelerated Molecular Docking Tool With Fixed-Point Quantization and Low-Level Parallelism,¡± IEEE Trans. VLSI. Syst, 2022.
+    * [3]. ¡°Biological Activity Prediction of GPCR-targeting Ligands on Heterogeneous FPGA-based Accelerators,¡± in FCCM, 2022.
+    * [4]. ¡°Accelerating AutoDock Vina with GPUs,¡± Molecules, 2022.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Verilog, VHDL, HLS, Python, and C/C++
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* EDA Software
+  * Xilinx Vivado, Xilinx Vitis, Intel Quartus, and Modelsim
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Journal Reviews
+  * ACM Transactions on Reconfigurable Technology and Systems (TRETS)
+  * The Journal of Supercomputing
+  * PeerJ Computer Science
+  * IEEE Access
+  * Scientific Reports
+
+* Conference Reviews
+  * International Symposium on Circuits and Systems (ISCAS)
+  * Biomedical Circuits and Systems Conference (BioCAS)
+
+Hobbies and Interests
+======
+* Tennis
