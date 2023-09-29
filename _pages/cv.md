@@ -16,12 +16,12 @@ Education
 
 Work experience
 ======
-* 2022/02 ¨C 2023/08: Research Assistant
+* 2022/02 - 2023/08: Research Assistant
   * Fudan University
   * Duties included: FPGA-based graph neural networks accelerator design and research article writing.
   * Supervisor: Professor Kun Wang
 
-* 2020/06 ¨C 2022/01: Visiting Researcher
+* 2020/06 - 2022/01: Visiting Researcher
   * VeriMake Innovation-Lab
   * Duties included: FPGA-based domain specific accelerator design and research article writing.
   * Supervisor: Mr. Yanxiang Zhu
