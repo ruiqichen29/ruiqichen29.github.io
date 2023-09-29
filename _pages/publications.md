@@ -13,16 +13,16 @@ author_profile: true
 ------
 
 * ### eSSpMV: An Embedded-FPGA-based Hardware Accelerator for Symmetric Sparse Matrix-Vector Multiplication
-2023 IEEE International Symposium on Circuits and Systems (ISCAS)
+  2023 IEEE International Symposium on Circuits and Systems (ISCAS)
 
 * ### Edge FPGA-based Onsite Neural Network Training
-2023 IEEE International Symposium on Circuits and Systems (ISCAS)
+  2023 IEEE International Symposium on Circuits and Systems (ISCAS)
 
 * ### Vina-FPGA: A Hardware-Accelerated Molecular Docking Tool With Fixed-Point Quantization and Low-Level Parallelism
-IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2022, 31(4): 484-497.
+  IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2022, 31(4): 484-497.
 
 * ### Graph-OPU: An FPGA-Based Overlay Processor for Graph Neural Networks
-Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA)
+  Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA)
 
 
 2022 
@@ -30,22 +30,22 @@ Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable 
 ------
 
 * ### A survey of field programmable gate array (FPGA)-based graph convolutional neural network accelerators: challenges and opportunities
-PeerJ Computer Science, 2022, 8: e1166.
+  PeerJ Computer Science, 2022, 8: e1166.
 
 * ### Evaluation of Fast Sample Entropy Algorithms on FPGAs: From Performance to Energy Efficiency
-Entropy, 2022, 24(9): 1177.
+  Entropy, 2022, 24(9): 1177.
 
 * ### Hardware-friendly compression and hardware acceleration for transformer: A survey
-Electronic Research Archive, 2022, 30(10): 3755-3785.
+  Electronic Research Archive, 2022, 30(10): 3755-3785.
 
 * ### Implementation of quasi-Newton algorithm on FPGA for IoT endpoint devices
-International Journal of Security and Networks, 2022, 17(2): 124-134.
+  International Journal of Security and Networks, 2022, 17(2): 124-134.
 
 * ### Biological Activity Prediction of GPCR-targeting Ligands on Heterogeneous FPGA-based Accelerators
-2022 IEEE 30th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)
+  2022 IEEE 30th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)
 
 * ### Accelerating AutoDock VINA with GPUs
-Molecules, 2022, 27(9): 3041.
+  Molecules, 2022, 27(9): 3041.
 
 
 2021 
@@ -53,14 +53,14 @@ Molecules, 2022, 27(9): 3041.
 ------
 
 * ### MLoF: Machine Learning Accelerators for the Low-Cost FPGA Platforms
-Applied sciences, 2021, 12(1): 89.
+  Applied sciences, 2021, 12(1): 89.
 
 * ### Gutter oil detection for food safety based on multi-feature machine learning and implementation on FPGA with approximate multipliers
-PeerJ Computer Science, 2021, 7: e774.
+  PeerJ Computer Science, 2021, 7: e774.
 
 * ### Low-power Iris Recognition System Implementation on FPGA with Approximate Multiplier
-J. Comput, 2021, 32: 115-127.
+  J. Comput, 2021, 32: 115-127.
 
 * ### Wearable on-device deep learning system for hand gesture recognition based on FPGA accelerator
-Mathematical Biosciences and Engineering, 2021, 18(1): 132-153.
+  Mathematical Biosciences and Engineering, 2021, 18(1): 132-153.
 
