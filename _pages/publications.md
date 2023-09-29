@@ -19,7 +19,7 @@ author_profile: true
   2023 IEEE International Symposium on Circuits and Systems (ISCAS)
 
 * ### Vina-FPGA: A Hardware-Accelerated Molecular Docking Tool With Fixed-Point Quantization and Low-Level Parallelism
-  IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2022, 31(4): 484-497.
+  IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2023, 31(4): 484-497.
 
 * ### Graph-OPU: An FPGA-Based Overlay Processor for Graph Neural Networks
   Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA)
