@@ -23,7 +23,7 @@ Research Interests
 ------
 
 - ### Domain-specific Architecture
-- ### FPGA-based Energy-Efficient Computing 
+- ### FPGA-based Energy-efficient Computing 
 - ### Heterogeneous Computing
 
 
@@ -31,6 +31,10 @@ Research Interests
 Select Publications
 ======
 ------
+
+### Graph-OPU: A Highly Integrated FPGA-Based Overlay Processor for Graph Neural Networks (In-press)
+Ruiqi Chen, Haoyang Zhang, Shun Li, et al<br>
+2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)
 
 ### eSSpMV: An Embedded-FPGA-based Hardware Accelerator for Symmetric Sparse Matrix-Vector Multiplication
 Ruiqi Chen, Haoyang Zhang, Yuhanxiao Ma, et al<br>
