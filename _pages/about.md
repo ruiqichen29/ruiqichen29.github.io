@@ -23,7 +23,7 @@ Research Interests
 ------
 
 - ### Domain-specific Architecture
-- ### FPGA-based High Performance Computing 
+- ### FPGA-based Energy-Efficient Computing 
 - ### Heterogeneous Computing
 
 
