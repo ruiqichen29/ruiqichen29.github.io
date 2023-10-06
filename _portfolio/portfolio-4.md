@@ -1,11 +1,8 @@
 ---
 title: "FPGA-based Domain Specific Accelerators"
-excerpt: "FPGA-based Domain Specific Accelerators<br/><img src='/images/DSA.jpg'>"
+excerpt: "<br/><img src='/images/DSA.jpg'>"
 collection: portfolio
 ---
-
-### FPGA-based Domain Specific Accelerators (2020/07 - Present)
-======
 
   * An FPGA-based flexible detection system for gutter oil is proposed for the first time based onmulti-dimensional features and machine learning.
   * An optimized iris recognition architecture is proposed and deployed to FPGA to realize real-time iris recognition; 
