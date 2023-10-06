@@ -4,6 +4,8 @@ excerpt: "<br/><img src='/images/cadd.png'>"
 collection: portfolio
 ---
 
+### 2020/07 - Present
+
   * A hardware-accelerated approach for AutoDock Vina has been developed, leading to deployments on GPU and FPGA platforms with average speedups of 19.8x and 3.7x, respectively.
   * An FPGA-based heterogeneous accelerator has been introduced for predicting GPCR ligand biological activity values. The system operates 54.5x faster than a CPU counterpart and achieves an energy efficiency that is 35.2x superior to GPU implementations.
   * Publications:

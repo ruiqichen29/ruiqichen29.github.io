@@ -4,6 +4,8 @@ excerpt: "<br/><img src='/images/DSA.jpg'>"
 collection: portfolio
 ---
 
+### 2020/02 - Present
+
   * An FPGA-based flexible detection system for gutter oil is proposed for the first time based onmulti-dimensional features and machine learning.
   * An optimized iris recognition architecture is proposed and deployed to FPGA to realize real-time iris recognition; 
   * An FPGA-based highly-integrated wearable edge device thatlocally recognizes hand gestures, rather than uploading data to the cloud as in previous studies.
