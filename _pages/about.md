@@ -50,12 +50,11 @@ Ruiqi Chen, Yuhanxiao Ma, Shaodong Zheng, et al<br>
 
 ### Accelerating AutoDock VINA with GPUs 
 Shidi Tang, Ruiqi Chen, Ming Ling, et al<br>
-Molecules, 2022, 27(9): 3041
+Molecules, 2022, 27(9): 3041.
 
 Latest News 
 ======
 ------
-
 - 07/2023: I'm serving as a reviewer for the [BIOCAS 2023](https://2023.ieee-biocas.org/)
 - 05/2023: Our works are accepted by [FPL 2023](https://2023.fpl.org/)
 - 01/2023: Our works are accepted by [ISCAS 2023](https://iscas2023.org/)

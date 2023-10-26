@@ -18,7 +18,7 @@ author_profile: true
 * ### FPGA Accelerating Multi-source Transfer Learning with GAT for Bioactivities of Ligands Targeting Orphan G Protein-coupled Receptors (In-press)
   2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)
 
-* ### g-BERT: Enabling Green BERT Deployment on FPGA via Hardware-Aware Hybrid Pruning (In-press)
+* ### g-BERT: Enabling Green BERT Deployment on FPGA via Hardware-Aware Hybrid Pruning
   2023 IEEE International Conference on Communications (ICC)
 
 * ### eSSpMV: An Embedded-FPGA-based Hardware Accelerator for Symmetric Sparse Matrix-Vector Multiplication

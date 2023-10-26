@@ -54,7 +54,7 @@ Skills
 * ### EDA Software
   * Xilinx Vivado, Xilinx Vitis, Intel Quartus, and Modelsim
   
-Service and leadership
+Service
 ======
 * ### Journal Reviews
   * ACM Transactions on Reconfigurable Technology and Systems (TRETS)
@@ -66,6 +66,12 @@ Service and leadership
 * ### Conference Reviews
   * International Symposium on Circuits and Systems (ISCAS)
   * Biomedical Circuits and Systems Conference (BioCAS)
+
+Awards
+======
+* 
+* 
+* 
 
 Hobbies and Interests
 ======
