@@ -12,10 +12,10 @@ author_profile: true
 ====== 
 ------
 
-* ### Graph-OPU: A Highly Integrated FPGA-Based Overlay Processor for Graph Neural Networks (In-press)
+* ### Graph-OPU: A Highly Integrated FPGA-Based Overlay Processor for Graph Neural Networks
   2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)
 
-* ### FPGA Accelerating Multi-source Transfer Learning with GAT for Bioactivities of Ligands Targeting Orphan G Protein-coupled Receptors (In-press)
+* ### FPGA Accelerating Multi-source Transfer Learning with GAT for Bioactivities of Ligands Targeting Orphan G Protein-coupled Receptors
   2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)
 
 * ### g-BERT: Enabling Green BERT Deployment on FPGA via Hardware-Aware Hybrid Pruning

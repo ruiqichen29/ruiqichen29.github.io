@@ -1,6 +1,6 @@
 ---
 title: "Hardware Accelerator for Computer-Aided Drug Design "
-excerpt: "<br/><img src='/images/cadd.png'>"
+excerpt: "<br/><img src='/images/cadd.png'style="display:block; width:auto; height:100px;">"
 collection: portfolio
 ---
 

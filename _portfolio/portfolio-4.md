@@ -1,6 +1,6 @@
 ---
 title: "FPGA-based Domain Specific Accelerators"
-excerpt: "<br/><img src='/images/DSA.jpg'>"
+excerpt: "<br/><img src='/images/DSA.jpg'style="display:block; width:auto; height:100px;">"
 collection: portfolio
 ---
 

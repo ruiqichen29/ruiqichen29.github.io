@@ -32,23 +32,23 @@ Select Publications
 ======
 ------
 
-### Graph-OPU: A Highly Integrated FPGA-Based Overlay Processor for Graph Neural Networks (In-press)
+### [Graph-OPU: A Highly Integrated FPGA-Based Overlay Processor for Graph Neural Networks](https://doi.org/10.1109/FPL60245.2023.00039)
 Ruiqi Chen, Haoyang Zhang, Shun Li, et al<br>
 2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)
 
-### eSSpMV: An Embedded-FPGA-based Hardware Accelerator for Symmetric Sparse Matrix-Vector Multiplication
+### [eSSpMV: An Embedded-FPGA-based Hardware Accelerator for Symmetric Sparse Matrix-Vector Multiplication](http://dx.doi.org/10.1109/ISCAS46773.2023.10181734)
 Ruiqi Chen, Haoyang Zhang, Yuhanxiao Ma, et al<br>
 2023 IEEE International Symposium on Circuits and Systems (ISCAS)
 
-### Vina-FPGA: A Hardware-Accelerated Molecular Docking Tool With Fixed-Point Quantization and Low-Level Parallelism
+### [Vina-FPGA: A Hardware-Accelerated Molecular Docking Tool With Fixed-Point Quantization and Low-Level Parallelism](http://dx.doi.org/10.1109/TVLSI.2022.3217275)
 Ming Ling, Qingde Lin, Ruiqi Chen, et al<br>
 IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2022, 31(4): 484-497.
 
-### Biological Activity Prediction of GPCR-targeting Ligands on Heterogeneous FPGA-based Accelerators
+### [Biological Activity Prediction of GPCR-targeting Ligands on Heterogeneous FPGA-based Accelerators](http://dx.doi.org/10.1109/FCCM53951.2022.9786139)
 Ruiqi Chen, Yuhanxiao Ma, Shaodong Zheng, et al<br>
 2022 IEEE 30th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)
 
-### Accelerating AutoDock VINA with GPUs 
+### [Accelerating AutoDock VINA with GPUs](http://dx.doi.org/10.3390/molecules27093041) 
 Shidi Tang, Ruiqi Chen, Ming Ling, et al<br>
 Molecules, 2022, 27(9): 3041.
 

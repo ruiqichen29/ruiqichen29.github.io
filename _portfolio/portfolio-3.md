@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning Accelerators for Edge-computing"
-excerpt: "<br/><img src='/images/mlof.jpg'>"
+excerpt: "<br/><img src='/images/mlof.jpg'style="display:block; width:auto; height:100px;">"
 collection: portfolio
 ---
 

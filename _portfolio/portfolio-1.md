@@ -1,6 +1,6 @@
 ---
 title: "FPGA-based Graph Neural Networks Accelerator Design"
-excerpt: "<br/><img src='/images/opu.png'>"
+excerpt: "<br/><img src='/images/opu.png'style="display:block; width:auto; height:100px;">"
 collection: portfolio
 ---
 
