@@ -1,8 +1,8 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"Heterogeneous
-author_profile: trueHeterogeneousmul
+excerpt: "About me"
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
@@ -25,7 +25,22 @@ Research Interests
 <!-- - ### Domain-specific Architecture
 - ### FPGA-based Energy-efficient Computing 
 - ### Heterogeneous Computing -->
-
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="../images/Domain.png" alt="Domain-specific Architecture" width="60" height="60">
+      <h3>Domain-specific Architecture</h3>
+    </td>
+    <td width="34%" align="center">
+      <img src="../images/green.png" alt="FPGA-based Energy-efficient Computing" width="60" height="60">
+      <h3>FPGA-based Energy-efficient Computing</h3>
+    </td>
+    <td width="33%" align="center">
+      <img src="../images/Heterogeneous.png" alt="Heterogeneous Computing" width="60" height="60">
+      <h3>Heterogeneous Computing</h3>
+    </td>
+  </tr>
+</table>
 
 
 
