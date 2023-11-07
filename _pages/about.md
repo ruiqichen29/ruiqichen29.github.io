@@ -1,8 +1,8 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
-author_profile: true
+excerpt: "About me"Heterogeneous
+author_profile: trueHeterogeneousmul
 redirect_from: 
   - /about/
   - /about.html
@@ -25,23 +25,19 @@ Research Interests
 <!-- - ### Domain-specific Architecture
 - ### FPGA-based Energy-efficient Computing 
 - ### Heterogeneous Computing -->
-<h2 align="center">Skills</h2>
 <table>
   <tr>
     <td width="33%" align="center">
-      <img src="parallel_programming_icon_url" alt="Parallel Programming" width="60" height="60">
-      <h3>Parallel Programming</h3>
-      <p>P-Threads, OpenMP, MPI, SYCL</p>
+      <img src="../images/Domain.png" alt="Domain-specific Architecture" width="60" height="60">
+      <h3>Domain-specific Architecture</h3>
     </td>
     <td width="34%" align="center">
-      <img src="hardware_design_icon_url" alt="Hardware Design" width="60" height="60">
-      <h3>Hardware Design</h3>
-      <p>High-Level Synthesis, OpenCL</p>
+      <img src="../images/green.png" alt="FPGA-based Energy-efficient Computing" width="60" height="60">
+      <h3>FPGA-based Energy-efficient Computing</h3>
     </td>
     <td width="33%" align="center">
-      <img src="embedded_prototyping_icon_url" alt="Embedded Prototyping" width="60" height="60">
-      <h3>Embedded Prototyping</h3>
-      <p>Arduino, stm32 microprocessors, Raspberry Pi</p>
+      <img src="../images/Heterogeneous.svg" alt="Heterogeneous Computing" width="60" height="60">
+      <h3>Heterogeneous Computing</h3>
     </td>
   </tr>
 </table>
