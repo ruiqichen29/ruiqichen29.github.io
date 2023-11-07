@@ -25,7 +25,7 @@ Research Interests
 <!-- - ### Domain-specific Architecture
 - ### FPGA-based Energy-efficient Computing 
 - ### Heterogeneous Computing -->
-<table>
+<table style="border-collapse: collapse; width: 100%;" border="0">
   <tr>
     <td width="33%" align="center">
       <img src="../images/Domain.png" alt="Domain-specific Architecture" width="60" height="60">
@@ -41,7 +41,6 @@ Research Interests
     </td>
   </tr>
 </table>
-
 
 
 Select Publications
