@@ -53,6 +53,9 @@ Skills
 
 * ### EDA Software
   * Xilinx Vivado, Xilinx Vitis, Intel Quartus, and Modelsim
+
+* ### Embedded Prototyping
+  * Arduino, STM32 MCU, Raspberry Pi, Jetson
   
 Service
 ======

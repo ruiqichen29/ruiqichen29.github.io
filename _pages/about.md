@@ -22,9 +22,29 @@ Research Interests
 ======
 ------
 
-- ### Domain-specific Architecture
+<!-- - ### Domain-specific Architecture
 - ### FPGA-based Energy-efficient Computing 
-- ### Heterogeneous Computing
+- ### Heterogeneous Computing -->
+<h2 align="center">Skills</h2>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="parallel_programming_icon_url" alt="Parallel Programming" width="60" height="60">
+      <h3>Parallel Programming</h3>
+      <p>P-Threads, OpenMP, MPI, SYCL</p>
+    </td>
+    <td width="34%" align="center">
+      <img src="hardware_design_icon_url" alt="Hardware Design" width="60" height="60">
+      <h3>Hardware Design</h3>
+      <p>High-Level Synthesis, OpenCL</p>
+    </td>
+    <td width="33%" align="center">
+      <img src="embedded_prototyping_icon_url" alt="Embedded Prototyping" width="60" height="60">
+      <h3>Embedded Prototyping</h3>
+      <p>Arduino, stm32 microprocessors, Raspberry Pi</p>
+    </td>
+  </tr>
+</table>
 
 
 
