@@ -36,7 +36,7 @@ Research Interests
       <h3>FPGA-based Energy-efficient Computing</h3>
     </td>
     <td width="33%" align="center">
-      <img src="../images/Heterogeneous.svg" alt="Heterogeneous Computing" width="60" height="60">
+      <img src="../images/Heterogeneous.png" alt="Heterogeneous Computing" width="60" height="60">
       <h3>Heterogeneous Computing</h3>
     </td>
   </tr>
