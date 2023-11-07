@@ -28,15 +28,15 @@ Research Interests
 <table>
   <tr>
     <td width="33%" align="center">
-      <img src="../images/Domain.png" alt="Domain-specific Architecture" width="60" height="60">
+      <img src="/images/Domain.png" alt="Domain-specific Architecture" width="60" height="60">
       <h3>Domain-specific Architecture</h3>
     </td>
     <td width="34%" align="center">
-      <img src="../images/green.png" alt="FPGA-based Energy-efficient Computing" width="60" height="60">
+      <img src="/images/green.png" alt="FPGA-based Energy-efficient Computing" width="60" height="60">
       <h3>FPGA-based Energy-efficient Computing</h3>
     </td>
     <td width="33%" align="center">
-      <img src="../images/Heterogeneous.png" alt="Heterogeneous Computing" width="60" height="60">
+      <img src="/images/Heterogeneous.png" alt="Heterogeneous Computing" width="60" height="60">
       <h3>Heterogeneous Computing</h3>
     </td>
   </tr>
