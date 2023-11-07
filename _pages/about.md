@@ -21,9 +21,6 @@ You can contact me via [Email](mailto:rickychen@verimake.com) or [WeChat](../ima
 Research Interests
 ======
 ------
-| ![Domain-specific Architecture](../images/Domain.png) | ![FPGA-based Energy-efficient Computing](../images/green.png) | ![Heterogeneous Computing](../images/Heterogeneous.png) |
-|:--------------------------------------------:|:----------------------------------------:|:---------------------------------------------------:|
-| **Domain-specific Architecture**                     | **FPGA-based Energy-efficient Computing**                      | **Heterogeneous Computing**                           |
 
 <!-- - ### Domain-specific Architecture
 - ### FPGA-based Energy-efficient Computing 
