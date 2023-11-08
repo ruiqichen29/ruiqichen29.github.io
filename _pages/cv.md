@@ -72,9 +72,12 @@ Service
 
 Awards
 ======
-* 
-* 
-* 
+* 2019 Second Prize in the 3rd National College Student Integrated Circuit Innovation and Entrepreneurship Competition
+* 2018 Second Prize in the National Embedded Chip and System Design Competition 
+* 2018 Second Prize in the 2nd National College Student Integrated Circuit Innovation and Entrepreneurship Competition
+* 2017 Second Prize in the 15th "Challenge Cup" of Jiangsu Province 
+* 2016 First Prize (Runner-up) in the 7th Jiangsu Province College Student Robotics Competition 
+* 2016 First Prize in the 9th Embedded System Design Competition at Southeast University
 
 Hobbies and Interests
 ======
