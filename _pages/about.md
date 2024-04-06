@@ -28,6 +28,7 @@ Research Interests
 Latest News 
 ======
 ------
+- 04/2024: Our work (Vina-FPGA-Cluster) is accepted by TBioCAS
 - 11/2023: I'm serving as a reviewer for the [ISCAS 2024](https://iscas2024.org/)
 - 11/2023: Our work is accepted by [DATE 2024](https://www.date-conference.com/)
 - 07/2023: I'm serving as a reviewer for the [BIOCAS 2023](https://2023.ieee-biocas.org/)
@@ -39,6 +40,10 @@ Latest News
 Select Publications
 ======
 ------
+
+### Vina-FPGA-Cluster: Multi-FPGA Based Molecular Docking Tool with High-Accuracy and Multi-Level Parallelism
+Ming Ling, Zhihao Feng, Ruiqi Chen, et al<br> 
+IEEE Transactions on Biomedical Circuits and Systems, 2024, early access.
 
 ### Graph-OPU: A Highly Integrated FPGA-Based Overlay Processor for Graph Neural Networks [[PDF](../files/paper/Graph_OPU.pdf)]
 Ruiqi Chen, Haoyang Zhang, Shun Li, et al<br>
