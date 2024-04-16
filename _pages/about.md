@@ -30,7 +30,7 @@ Latest News
 ------
 - 04/2024: Our work (Vina-FPGA-Cluster) is accepted by TBioCAS
 - 11/2023: I'm serving as a reviewer for the [ISCAS 2024](https://iscas2024.org/)
-- 11/2023: Our work is accepted by [DATE 2024](https://www.date-conference.com/)
+- 11/2023: Our work is accepted by [DATE 2024](https://www.date-conference.com/date-2024-accepted-papers)
 - 07/2023: I'm serving as a reviewer for the [BIOCAS 2023](https://2023.ieee-biocas.org/)
 - 05/2023: Our works are accepted by [FPL 2023](https://2023.fpl.org/)
 - 01/2023: Our works are accepted by [ISCAS 2023](https://iscas2023.org/)
