@@ -12,6 +12,8 @@ author_profile: true
 ======  
 ------
 * ### Vina-FPGA-Cluster: Multi-FPGA Based Molecular Docking Tool with High-Accuracy and Multi-Level Parallelism 
+  DOI: [10.1109/TBCAS.2024.3388323](http://dx.doi.org/10.1109/TBCAS.2024.3388323)
+
   IEEE Transactions on Biomedical Circuits and Systems (TBioCAS), Early access
 
 2023 

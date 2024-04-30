@@ -10,13 +10,12 @@ redirect_from:
 
 ------
 
-I'm looking for a PhD postion to pursue research in the FPGA-based domain-specific accelerator. I have worked as a Research Assistant with Fudan University and Southeast University from 2022-2024, respectively. I have worked as a visiting researcher in VeriMake Innovation Lab of Renmian IC Co.,Ltd, China from 2020-2022. I received my M.S. degree in Integrated Circuit Engineering from Fuzhou University in 2020. My research interests include domain-specific architecture and FPGA-based accelerators.
+I'm pursuing the Ph.D. degree in Engineering Sciences at the Vrije Universiteit Brussel. 
+From 2020 to 2023, I served as a Research Assistant with VeriMake Innovation Lab, Fudan University and Southeast University, respectively. I received my M.S. degree in Integrated Circuit Engineering from Fuzhou University in 2020. My research interests include domain-specific architecture and FPGA-based accelerators.
 
 You can find my CV here: [Ruiqi Chen's Curriculum Vitae](../files/RickyCV.pdf).
 
-<font color="#E74290"><b> I am looking for a PhD position. </b></font>  
-
-You can contact me via [Email](mailto:rickychen@verimake.com) or [WeChat](../images/wechat.png).
+You can contact me via [Email](mailto:ruiqi.chen@vub.be) or [WeChat](../images/wechat.png).
    
 Research Interests
 ======
