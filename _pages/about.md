@@ -10,8 +10,7 @@ redirect_from:
 
 ------
 
-I'm pursuing the Ph.D. degree in Engineering Sciences at the Vrije Universiteit Brussel. 
-From 2020 to 2023, I served as a Research Assistant with VeriMake Innovation Lab, Fudan University and Southeast University, respectively. I received my M.S. degree in Integrated Circuit Engineering from Fuzhou University in 2020. My research interests include domain-specific architecture and FPGA-based accelerators.
+I'm pursuing the Ph.D. degree in Engineering Sciences at the Vrije Universiteit Brussel. My research interests include domain-specific architecture and FPGA-based accelerators. From 2020 to 2023, I served as a Research Assistant with VeriMake Innovation Lab, Fudan University and Southeast University, respectively. I received my M.S. degree in Integrated Circuit Engineering from Fuzhou University in 2020. 
 
 You can find my CV here: [Ruiqi Chen's Curriculum Vitae](../files/RickyCV.pdf).
 
