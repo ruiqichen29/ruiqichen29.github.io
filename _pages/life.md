@@ -6,15 +6,26 @@ author_profile: true
 ---
 
 ------
+<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
+    <div style="text-align: center; margin: 10px;">
+        <img src="../images/life/Workineh_Grand_Place.jpg" alt="Image Description 1" width="250"/>
+        <figcaption>*Grand-Place with Workineh, Brussels, Be, 2024*</figcaption>
+    </div>
+    <div style="text-align: center; margin: 10px;">
+        <img src="../images/life/tintin.jpg" alt="Image Description 2" width="250"/>
+        <figcaption>*wall painting of Tintin, Brussels, Be, 2024*</figcaption>
+    </div>
+</div>
+
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
     <div style="text-align: center; margin: 10px;">
-        <img src="../images/life/motto.jpg" alt="Image Description 1" width="250"/>
-        <figcaption>*Motto, Brussels, Be, 2024*</figcaption>
+        <img src="../images/life/Manneken_Pis.jpg" alt="Image Description 1" width="250"/>
+        <figcaption>*Manneken Pis, Brussels, Be, 2024*</figcaption>
     </div>
     <div style="text-align: center; margin: 10px;">
-        <img src="../images/life/bruno.jpg" alt="Image Description 2" width="250"/>
-        <figcaption>*Lunch with Bruno, Brussels, Be, 2024*</figcaption>
+        <img src="../images/life/donate.jpg" alt="Image Description 2" width="250"/>
+        <figcaption>*Someone donated Chinese Yuan >_<, Brussels, Be, 2024*</figcaption>
     </div>
 </div>
 
