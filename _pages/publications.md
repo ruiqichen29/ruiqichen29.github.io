@@ -11,6 +11,11 @@ author_profile: true
 2024  
 ======  
 ------
+* ### S-LGCN: Software-Hardware Co-Design for Accelerating LightGCN 
+  DOI: [N/A](https://ieeexplore.ieee.org/abstract/document/10546640)
+
+  2024 Design, Automation & Test in Europe Conference & Exhibition (DATE)
+
 * ### Vina-FPGA-Cluster: Multi-FPGA Based Molecular Docking Tool with High-Accuracy and Multi-Level Parallelism 
   DOI: [10.1109/TBCAS.2024.3388323](http://dx.doi.org/10.1109/TBCAS.2024.3388323)
 
