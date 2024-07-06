@@ -12,7 +12,7 @@ author_profile: true
 ======  
 ------
 * ### S-LGCN: Software-Hardware Co-Design for Accelerating LightGCN 
-  DOI: [N/A](https://ieeexplore.ieee.org/abstract/document/10546640)
+  DOI: [TBD](https://ieeexplore.ieee.org/abstract/document/10546640)
 
   2024 Design, Automation & Test in Europe Conference & Exhibition (DATE)
 
