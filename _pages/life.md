@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ------
+
 <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
     <div style="text-align: center; margin: 10px;">
         <img src="../images/life/Workineh_Grand_Place.jpg" alt="Image Description 1" width="250"/>
@@ -52,12 +53,12 @@ author_profile: true
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
     <div style="text-align: center; margin: 10px;">
-        <img src="../images/life/Antelope_Canyon.jpg" alt="Image Description 3" width="250"/>
+        <img src="../images/life/Antelope_Canyon.jpg" alt="Image Description 3" width="300"/>
         <figcaption>*Antelope Canyon, AZ, US, Jun 2023*</figcaption>
     </div>
     <div style="text-align: center; margin: 10px;">
-        <img src="../images/life/seaotter.jpg" alt="Image Description 4" width="250"/>
-        <figcaption>*Maggie & Seaotter*</figcaption>
+        <img src="../images/life/GoldenGateBridge.png" alt="Image Description 4" width="300"/>
+        <figcaption>*Golden Gate Bridge, CA, US, Jun 2023*</figcaption>
     </div>
 </div>
 
@@ -67,18 +68,18 @@ author_profile: true
         <figcaption>*Yosemite, CA, US, May 2023*</figcaption>
     </div>
     <div style="text-align: center; margin: 10px;">
-        <img src="../images/life/whale.jpg" alt="Image Description 6" width="250"/>
-        <figcaption>*whale*</figcaption>
+        <img src="../images/life/GrandCanyon.png" alt="Image Description 6" width="250"/>
+        <figcaption>*Grand Canyon, AZ, US, Jun 2023*</figcaption>
     </div>
 </div>
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
     <div style="text-align: center; margin: 10px;">
-        <img src="../images/life/Monterey.jpg" alt="Image Description 5" width="250"/>
-        <figcaption>*We can take a long way*</figcaption>
+        <img src="../images/life/whale.jpg" alt="Image Description 6" width="300"/>         
+        <figcaption>*whale*</figcaption>
     </div>
     <div style="text-align: center; margin: 10px;">
-        <img src="../images/life/Moon_Bay.jpg" alt="Image Description 6" width="250"/>
+        <img src="../images/life/Moon_Bay.jpg" alt="Image Description 6" width="300"/>
         <figcaption>*Moon Bay, Guangdong, CHN, Dec 2019*</figcaption>
     </div>
 </div>
