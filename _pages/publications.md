@@ -11,6 +11,11 @@ author_profile: true
 2024  
 ======  
 ------
+* ### FPGA-Based Sparse Matrix Multiplication Accelerators: From State-of-the-art to Future Opportunities
+  DOI: TBD
+
+  ACM Transactions on Reconfigurable Technology and Systems (TRETS), Early access
+
 * ### S-LGCN: Software-Hardware Co-Design for Accelerating LightGCN 
   DOI: [TBD](https://ieeexplore.ieee.org/abstract/document/10546640)
 
