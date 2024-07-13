@@ -26,7 +26,8 @@ Research Interests
 Latest News 
 ======
 ------
-- 04/2024: Our work (Vina-FPGA-Cluster) is accepted by [TBioCAS](https://ieeexplore.ieee.org/document/10500753)(Early Access)
+- 07/2024: Our survey (FPGA-Based Sparse Matrix Multiplication Accelerators) is accepted by TRETS (Early Access)
+- 04/2024: Our work (Vina-FPGA-Cluster) is accepted by [TBioCAS](https://ieeexplore.ieee.org/document/10500753) (Early Access)
 - 11/2023: I'm serving as a reviewer for the [ISCAS 2024](https://iscas2024.org/)
 - 11/2023: Our work is accepted by [DATE 2024](https://ieeexplore.ieee.org/abstract/document/10546640)
 - 07/2023: I'm serving as a reviewer for the [BIOCAS 2023](https://2023.ieee-biocas.org/)
