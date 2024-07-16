@@ -16,7 +16,12 @@ Education
 
 Work experience
 ======
-* ### Research Assistant (2022/02 - 2023/08)
+* ### Research Assistant (2023/07 - 2023/12)
+  * Southeast University
+  * Duties included: FPGA-based accelerator design for molecular docking and research article writing.
+  * Supervisor: Associate Professor Ming Ling
+
+* ### Research Assistant (2022/02 - 2023/02)
   * Fudan University
   * Duties included: FPGA-based graph neural networks accelerator design and research article writing.
   * Supervisor: Professor Kun Wang
@@ -33,7 +38,7 @@ Skills
   * Verilog, VHDL, HLS, Python, Java, and C/C++
 
 * ### EDA Software
-  * Xilinx Vivado, Xilinx Vitis, Intel Quartus, and Modelsim
+  * Xilinx Vivado, Xilinx Vitis, Altera Quartus, and Modelsim
 
 * ### Embedded Prototyping
   * Android, Arduino, STM32 MCU, Raspberry Pi, Jetson
@@ -52,6 +57,7 @@ Service
 * ### Conference Reviews
   * International Symposium on Circuits and Systems (ISCAS)
   * Biomedical Circuits and Systems Conference (BioCAS)
+  * Asia Pacific Conference on Circuits and Systems (APCCAS)
 
 Awards
 ======
