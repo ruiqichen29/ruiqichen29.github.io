@@ -11,6 +11,7 @@ redirect_from:
 
 🎓 Education
 ======
+------
   * Ph.D. in Engineering Sciences, Vrije Universiteit Brussel, 2024-Now
   * M.S. in Integrated Circuit Engineering, Fuzhou University, 2017-2020
   * B.S. in Electronic Science and Technology, Southeast University Chengxian College, 2013-2017
@@ -18,6 +19,7 @@ redirect_from:
 
 💼 Work experience
 ======
+------
 * ### Research Assistant (2023/07 - 2023/12)
   * Southeast University
   * Duties included: FPGA-based accelerator design for molecular docking and research article writing.
@@ -36,6 +38,7 @@ redirect_from:
   
 🛠️ Skills
 ======
+------
 * ### Programming
   * Verilog, VHDL, HLS, Python, Java, and C/C++
 
@@ -47,6 +50,7 @@ redirect_from:
   
 🧰 Service
 ======
+------
 * ### Journal Reviews
   * IEEE Transactions on Computers (TC)
   * ACM Transactions on Reconfigurable Technology and Systems (TRETS)
@@ -63,6 +67,7 @@ redirect_from:
 
 🏅 Awards
 ======
+------
 * 2019 Second Prize in the 3rd National College Student Integrated Circuit Innovation and Entrepreneurship Competition
 * 2018 Second Prize in the National Embedded Chip and System Design Competition 
 * 2018 Second Prize in the 2nd National College Student Integrated Circuit Innovation and Entrepreneurship Competition
@@ -72,4 +77,5 @@ redirect_from:
 
 Hobbies and Interests
 ======
+------
 * Tennis 🎾
