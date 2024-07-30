@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## 🎓 Education
 ======
-* B.S. in Electronic Science and Technology, Southeast University Chengxian College, 2017
-* M.S. in Integrated Circuit Engineering, Fuzhou University, 2020
+- ** B.S. in Electronic Science and Technology, Southeast University Chengxian College, 2017
+- ** M.S. in Integrated Circuit Engineering, Fuzhou University, 2020
 
-Work experience
+## 💼 Work experience
 ======
 * ### Research Assistant (2023/07 - 2023/12)
   * Southeast University
@@ -32,7 +32,7 @@ Work experience
   * Supervisor: Mr. Yanxiang Zhu
   * Co-supervisor: Associate Professor Ming Ling
   
-Skills
+## 🛠️ Skills
 ======
 * ### Programming
   * Verilog, VHDL, HLS, Python, Java, and C/C++
@@ -43,7 +43,7 @@ Skills
 * ### Embedded Prototyping
   * Android, Arduino, STM32 MCU, Raspberry Pi, Jetson
   
-Service
+## 🧰 Service
 ======
 * ### Journal Reviews
   * IEEE Transactions on Computers (TC)
@@ -59,7 +59,7 @@ Service
   * Biomedical Circuits and Systems Conference (BioCAS)
   * Asia Pacific Conference on Circuits and Systems (APCCAS)
 
-Awards
+## 🏅 Awards
 ======
 * 2019 Second Prize in the 3rd National College Student Integrated Circuit Innovation and Entrepreneurship Competition
 * 2018 Second Prize in the National Embedded Chip and System Design Competition 
@@ -70,4 +70,4 @@ Awards
 
 Hobbies and Interests
 ======
-* Tennis
+* Tennis 🎾
