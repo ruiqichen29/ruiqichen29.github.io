@@ -11,8 +11,10 @@ redirect_from:
 
 🎓 Education
 ======
-- ** B.S. in Electronic Science and Technology, Southeast University Chengxian College, 2017
-- ** M.S. in Integrated Circuit Engineering, Fuzhou University, 2020
+  * Ph.D. in Engineering Sciences, Vrije Universiteit Brussel, 2024-Now
+  * M.S. in Integrated Circuit Engineering, Fuzhou University, 2017-2020
+  * B.S. in Electronic Science and Technology, Southeast University Chengxian College, 2013-2017
+  
 
 💼 Work experience
 ======
