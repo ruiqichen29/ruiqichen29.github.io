@@ -16,14 +16,14 @@ You can find my CV here: [Ruiqi Chen's Curriculum Vitae](../files/RickyCV.pdf).
 
 You can contact me via [Email](mailto:ruiqi.chen@vub.be) or [WeChat](../images/wechat.png).
    
-## 🔬 Research Interests
+🔬 Research Interests
 ======
 ------
 
 <img src='../images/research.png' style='width:auto;'>
 
 
-## 📰 Latest News 
+📰 Latest News 
 ======
 ------
 - 07/2024: 🎉 Our survey (FPGA-Based Sparse Matrix Multiplication Accelerators) is accepted by TRETS (Early Access)
@@ -36,7 +36,7 @@ You can contact me via [Email](mailto:ruiqi.chen@vub.be) or [WeChat](../images/w
 
 
 
-## 📃 Select Publications
+📃 Select Publications
 ======
 ------
 
