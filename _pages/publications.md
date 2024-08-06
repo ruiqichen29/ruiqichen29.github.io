@@ -19,10 +19,12 @@ author_profile: true
     </select>
 </div>
 
-<a id="year-2024"></a>
-2024  
+
+2024
 ======  
 ------
+<a id="year-2024"></a>
+
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
     <div style="flex: 0 0 80px;">
         <span style="background-color: #009; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">TRETS</span>
@@ -56,10 +58,12 @@ author_profile: true
     </div>
 </div>
 
-<a id="year-2023"></a>
+
 2023 
 ====== 
 ------
+<a id="year-2023"></a>
+
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
     <div style="flex: 0 0 80px;">
         <span style="background-color: #070; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">FPL</span>
@@ -137,10 +141,12 @@ author_profile: true
     </div>
 </div>
 
-<a id="year-2022"></a>
+
 2022 
 ====== 
 ------
+<a id="year-2022"></a>
+
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
     <div style="flex: 0 0 80px;">
         <span style="background-color: #009; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">PeerJ</span>
@@ -207,10 +213,11 @@ author_profile: true
     </div>
 </div>
 
-<a id="year-2021"></a>
+
 2021 
 ====== 
 ------
+<a id="year-2021"></a>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
     <div style="flex: 0 0 80px;">
