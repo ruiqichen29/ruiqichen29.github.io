@@ -11,6 +11,17 @@ author_profile: true
 2024  
 ======  
 ------
+<div style="border: 1px solid #ccc; padding: 15px; margin-bottom: 20px;">
+    <div style="display: flex; justify-content: space-between;">
+        <div>
+            <span style="background-color: #00A; color: #fff; padding: 3px 8px; font-size: 12px; border-radius: 3px;">TRETS</span>
+            <h3>ZePT: Zero-shot Pan-Tumor segmentation via query-disentangling and self-prompting</h3>
+            <p>Yankai Jiang, Zhongzhen Huang, Rongzhao Zhang, Xiaofan Zhang*, and Shaoting Zhang*</p>
+            <p><i>In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024</i></p>
+        </div>
+    </div>
+</div>
+
 * ### FPGA-Based Sparse Matrix Multiplication Accelerators: From State-of-the-art to Future Opportunities
   DOI: TBD
 
