@@ -11,14 +11,14 @@ author_profile: true
 2024  
 ======  
 ------
-<div style="border: 1px solid #ccc; padding: 15px; margin-bottom: 20px;">
-    <div style="display: flex; justify-content: space-between;">
-        <div>
-            <span style="background-color: #00A; color: #fff; padding: 3px 8px; font-size: 12px; border-radius: 3px;">TRETS</span>
-            <h3>ZePT: Zero-shot Pan-Tumor segmentation via query-disentangling and self-prompting</h3>
-            <p>Yankai Jiang, Zhongzhen Huang, Rongzhao Zhang, Xiaofan Zhang*, and Shaoting Zhang*</p>
-            <p><i>In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024</i></p>
-        </div>
+<div style="border: 1px solid #ccc; padding: 15px; margin-bottom: 20px; display: flex;">
+    <div style="flex: 0 0 80px;">
+        <span style="background-color: #00A; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">TRETS</span>
+    </div>
+    <div style="flex: 1; padding-left: 20px;">
+        <h3 style="margin: 0;">ZePT: Zero-shot Pan-Tumor segmentation via query-disentangling and self-prompting</h3>
+        <p style="margin: 5px 0;">Yankai Jiang, Zhongzhen Huang, Rongzhao Zhang, Xiaofan Zhang*, and Shaoting Zhang*</p>
+        <p style="margin: 5px 0;"><i>In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024</i></p>
     </div>
 </div>
 
