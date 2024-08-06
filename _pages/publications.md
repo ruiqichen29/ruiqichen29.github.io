@@ -9,7 +9,7 @@ author_profile: true
 ------
 
 <div style="margin-bottom: 20px; display: flex; align-items: center;">
-    <label for="year-select">Quick view by year:</label>
+    <label for="year-select">Quick view by year: &nbsp</label>
     <select id="year-select" onchange="scrollToYear(event)">
         <option value="">Select a year</option>
         <option value="year-2024">2024</option>
