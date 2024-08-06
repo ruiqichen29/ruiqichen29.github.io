@@ -26,6 +26,8 @@ You can contact me via [Email](mailto:ruiqi.chen@vub.be) or [WeChat](../images/w
 📰 Latest News 
 ======
 ------
+- 07/2024: I'm serving as a reviewer for the [APCCAS 2024](https://apccas2024.org/)
+- 07/2024: I'm serving as a reviewer for the [BIOCAS 2024](https://2024.ieee-biocas.org/)
 - 07/2024: 🎉 Our survey (FPGA-Based Sparse Matrix Multiplication Accelerators) is accepted by TRETS (Early Access)
 - 04/2024: 🎉 Our work (Vina-FPGA-Cluster) is accepted by [TBioCAS](https://ieeexplore.ieee.org/document/10500753) (Early Access)
 - 11/2023: I'm serving as a reviewer for the [ISCAS 2024](https://iscas2024.org/)
