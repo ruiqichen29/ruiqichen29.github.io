@@ -8,6 +8,18 @@ author_profile: true
 
 ------
 
+<div style="margin-bottom: 20px;">
+    <label for="year-select">Quick view by year:</label>
+    <select id="year-select" onchange="scrollToYear(event)">
+        <option value="">Select a year</option>
+        <option value="year-2024">2024</option>
+        <option value="year-2023">2023</option>
+        <option value="year-2022">2022</option>
+        <option value="year-2021">2021</option>
+    </select>
+</div>
+
+<a id="year-2024"></a>
 2024  
 ======  
 ------
@@ -44,6 +56,7 @@ author_profile: true
     </div>
 </div>
 
+<a id="year-2023"></a>
 2023 
 ====== 
 ------
@@ -124,7 +137,7 @@ author_profile: true
     </div>
 </div>
 
-
+<a id="year-2022"></a>
 2022 
 ====== 
 ------
@@ -194,8 +207,7 @@ author_profile: true
     </div>
 </div>
 
-
-
+<a id="year-2021"></a>
 2021 
 ====== 
 ------
@@ -243,4 +255,13 @@ author_profile: true
         <p style="margin: 5px 0;"><i>Mathematical Biosciences and Engineering, 2021, 18(1): 132-153.</i></p>
     </div>
 </div>
+
+<script>
+    function scrollToYear(event) {
+        var yearId = event.target.value;
+        if (yearId) {
+            document.getElementById(yearId).scrollIntoView({ behavior: 'smooth' });
+        }
+    }
+</script>
 
