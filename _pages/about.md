@@ -38,7 +38,7 @@ You can contact me via [Email](mailto:ruiqi.chen@vub.be) or [WeChat](../images/w
 
 
 
-📃 Select Publications
+📃 Selected Publications
 ======
 ------
 
