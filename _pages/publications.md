@@ -272,16 +272,16 @@ author_profile: true
     }
         // When the user scrolls down 20px from the top of the document, show the button
     window.onscroll = function() {scrollFunction()};
-    
+
     function scrollFunction() {
-        let topButton = document.getElementById("topBtn");
+        var topButton = document.getElementById("topBtn");
         if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
             topButton.style.display = "block";
         } else {
             topButton.style.display = "none";
         }
     }
-    
+
     // When the user clicks on the button, scroll to the top of the document
     function topFunction() {
         document.body.scrollTop = 0;
@@ -289,6 +289,5 @@ author_profile: true
     }
 </script>
 
-
-<!-- top button -->
+<!-- Add this button at the end of your HTML content -->
 <button onclick="topFunction()" id="topBtn" title="Go to top" style="display:none; position:fixed; bottom:20px; right:30px; z-index:99; border:none; outline:none; background-color:#555; color:white; cursor:pointer; padding:15px; border-radius:10px; font-size:18px;">Top</button>
