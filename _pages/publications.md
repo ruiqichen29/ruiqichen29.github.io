@@ -264,13 +264,45 @@ author_profile: true
 </div>
 
 <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        function scrollToYear(event) {
+            var yearId = event.target.value;
+            if (yearId) {
+                document.getElementById(yearId).scrollIntoView({ behavior: 'smooth' });
+            }
+        }
+
+        window.onscroll = function() {scrollFunction()};
+
+        function scrollFunction() {
+            var topButton = document.getElementById("topBtn");
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                topButton.style.display = "block";
+            } else {
+                topButton.style.display = "none";
+            }
+        }
+
+        function topFunction() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }
+
+        document.getElementById("year-select").addEventListener("change", scrollToYear);
+        document.getElementById("topBtn").addEventListener("click", topFunction);
+    });
+</script>
+
+<button id="topBtn" title="Go to top" style="display:none; position:fixed; bottom:20px; right:30px; z-index:99; border:none; outline:none; background-color:#555; color:white; cursor:pointer; padding:15px; border-radius:10px; font-size:18px;">Top</button>
+
+<script>
     function scrollToYear(event) {
         var yearId = event.target.value;
         if (yearId) {
             document.getElementById(yearId).scrollIntoView({ behavior: 'smooth' });
         }
     }
-        // When the user scrolls down 20px from the top of the document, show the button
+
     window.onscroll = function() {scrollFunction()};
 
     function scrollFunction() {
@@ -282,12 +314,11 @@ author_profile: true
         }
     }
 
-    // When the user clicks on the button, scroll to the top of the document
     function topFunction() {
         document.body.scrollTop = 0;
         document.documentElement.scrollTop = 0;
     }
-</script>
 
-<!-- Add this button at the end of your HTML content -->
-<button onclick="topFunction()" id="topBtn" title="Go to top" style="display:none; position:fixed; bottom:20px; right:30px; z-index:99; border:none; outline:none; background-color:#555; color:white; cursor:pointer; padding:15px; border-radius:10px; font-size:18px;">Top</button>
+    document.getElementById("year-select").addEventListener("change", scrollToYear);
+    document.getElementById("topBtn").addEventListener("click", topFunction);
+</script>
